@@ -1,9 +1,11 @@
 {
   "name": "xpull",
   "version": "1.0.0",
-  "main": "xpull.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT",
   "homepage": "https://github.com/datalink/xpull",
   "author": "sjovanovic <sjovanovic@gmail.com>",
   "description": "Pull to refresh jQuery plugin for iOS and Android browsers and web views",
-  "license": "MIT",
+
 }
