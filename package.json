@@ -11,5 +11,6 @@
   "description": "Pull to refresh jQuery plugin for iOS and Android browsers and web views",
   "keywords": [
     "xpull"
+  ],
   "main": "xpull.js"
 }
