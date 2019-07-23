@@ -6,7 +6,7 @@
   "license": "MIT",
   "homepage": "https://github.com/datalink/xpull",
   "authors": [
-    "sjovanovic <sjovanovic@gmail.com>",
+    "sjovanovic <sjovanovic@gmail.com>"
   ],
   "description": "Pull to refresh jQuery plugin for iOS and Android browsers and web views",
   "keywords": [
